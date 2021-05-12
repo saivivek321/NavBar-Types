@@ -3,7 +3,7 @@ body
   background: linear-gradient(to right, rgb(243 217 239), rgb(213 98 98));
 }
 
-.container {
+.container1 {
   overflow-x: hidden;
   width: 100%;
 }
